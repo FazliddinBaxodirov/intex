@@ -1,0 +1,7 @@
+.login-body{
+    height:90vh;
+    background-image: url(../images/login/body-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
